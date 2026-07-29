@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040446385925840896",
+    "conversation_id": "2064420366433518051",
+    "created_at": "2026-06-09T18:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T19:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064420366433518051"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064420366433518051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友生日送假发要花钱，还想给喜欢的v上舰长，，过几天生日希望能圈到家里钱，我要买pico4五点追踪和面捕插件...可是呢我现在只有1000😭。今年希望还能有获得钱的机会。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040446385925840896",
+        "conversation_id": "2064420366433518051",
+        "created_at": "2026-06-09T18:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064420366433518051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064420366433518051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友生日送假发要花钱，还想给喜欢的v上舰长，，过几天生日希望能圈到家里钱，我要买pico4五点追踪和面捕插件...可是呢我现在只有1000😭。今年希望还能有获得钱的机会。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T15:08:43.000Z",
+        "description": "無須在意我‖现实边缘人唯一社交互联网‖超级喜欢关注对不起‖精神不安定‖社会废人家里蹲‖一切友好 想交朋友♡爱所有人 异色夜桜@kami1225404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "kami1225404"
+              }
+            ]
+          }
+        },
+        "id": "2040446385925840896",
+        "location": "幸福边缘",
+        "name": "夜桜♡",
+        "pinned_tweet_id": "2059671087596900422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051028867230658560/Ub-5J11Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 33,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 145
+        },
+        "username": "Yozakura0_",
+        "verified": false
+      }
+    ]
+  }
+}

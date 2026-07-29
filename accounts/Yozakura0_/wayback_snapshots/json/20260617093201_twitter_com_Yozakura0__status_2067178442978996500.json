@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040446385925840896",
+    "conversation_id": "2066961633126261056",
+    "created_at": "2026-06-17T09:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067178442978996500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "938115028871467009",
+          "start": 0,
+          "username": "samliu0105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067178442978996500",
+    "in_reply_to_user_id": "938115028871467009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067018848809935318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@samliu0105 感谢你的祝福呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040446385925840896",
+        "conversation_id": "2066961633126261056",
+        "created_at": "2026-06-17T09:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067178442978996500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "938115028871467009",
+              "start": 0,
+              "username": "samliu0105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067178442978996500",
+        "in_reply_to_user_id": "938115028871467009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067018848809935318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@samliu0105 感谢你的祝福呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "938115028871467009",
+        "conversation_id": "2066961633126261056",
+        "created_at": "2026-06-16T22:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T23:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067018848809935318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040446385925840896",
+              "start": 0,
+              "username": "Yozakura0_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067018848809935318",
+        "in_reply_to_user_id": "2040446385925840896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066961633126261056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yozakura0_ 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T15:08:43.000Z",
+        "description": "無須在意我‖现实边缘人唯一社交互联网‖超级喜欢关注对不起‖精神不安定‖社会废人家里蹲‖一切友好 想交朋友♡爱所有人 异色夜桜@kami1225404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "kami1225404"
+              }
+            ]
+          }
+        },
+        "id": "2040446385925840896",
+        "location": "幸福边缘",
+        "name": "夜桜♡",
+        "pinned_tweet_id": "2059671087596900422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051028867230658560/Ub-5J11Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 41,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 181
+        },
+        "username": "Yozakura0_",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-05T18:37:06.000Z",
+        "description": "欢迎大家来和我做朋友喵🤗关注我我也会回关喵😋",
+        "id": "938115028871467009",
+        "location": "The moon",
+        "name": "Sam liu",
+        "pinned_tweet_id": "2056995444593754520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047609458612908032/Tr9b6tGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 638,
+          "like_count": 1889,
+          "listed_count": 0,
+          "media_count": 477,
+          "tweet_count": 1575
+        },
+        "username": "samliu0105",
+        "verified": true
+      }
+    ]
+  }
+}

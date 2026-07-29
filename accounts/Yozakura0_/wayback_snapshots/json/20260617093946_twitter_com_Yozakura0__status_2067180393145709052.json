@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040446385925840896",
+    "conversation_id": "2066961633126261056",
+    "created_at": "2026-06-17T09:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067180393145709052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1813261726391148546",
+          "start": 0,
+          "username": "James483582762"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067180393145709052",
+    "in_reply_to_user_id": "1813261726391148546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067021430206992701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@James483582762 非常感谢之！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040446385925840896",
+        "conversation_id": "2066961633126261056",
+        "created_at": "2026-06-17T09:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067180393145709052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1813261726391148546",
+              "start": 0,
+              "username": "James483582762"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067180393145709052",
+        "in_reply_to_user_id": "1813261726391148546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067021430206992701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@James483582762 非常感谢之！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813261726391148546",
+        "conversation_id": "2066961633126261056",
+        "created_at": "2026-06-16T23:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T00:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067021430206992701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040446385925840896",
+              "start": 0,
+              "username": "Yozakura0_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067021430206992701",
+        "in_reply_to_user_id": "2040446385925840896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066961633126261056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yozakura0_ 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T15:08:43.000Z",
+        "description": "無須在意我‖现实边缘人唯一社交互联网‖超级喜欢关注对不起‖精神不安定‖社会废人家里蹲‖一切友好 想交朋友♡爱所有人 异色夜桜@kami1225404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "kami1225404"
+              }
+            ]
+          }
+        },
+        "id": "2040446385925840896",
+        "location": "幸福边缘",
+        "name": "夜桜♡",
+        "pinned_tweet_id": "2059671087596900422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051028867230658560/Ub-5J11Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 41,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 200
+        },
+        "username": "Yozakura0_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T17:18:11.000Z",
+        "description": "xyn，大学在读，计算机爱好者，激进自由主义者。欢迎同类互fo。自由，独立，进步",
+        "id": "1813261726391148546",
+        "name": "CuteOmega🏳️‍⚧️🏳️‍🌈🇹🇼🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057526672438751232/SUqk_-gn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 393,
+          "like_count": 6788,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 571
+        },
+        "username": "James483582762",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040446385925840896",
+    "conversation_id": "2066961633126261056",
+    "created_at": "2026-06-17T09:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067177891675398592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1447048011545075720",
+          "start": 0,
+          "username": "MisuzuChan_0510"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067177891675398592",
+    "in_reply_to_user_id": "1447048011545075720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067010611918393842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisuzuChan_0510 非常感谢！！(*^ω^*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040446385925840896",
+        "conversation_id": "2066961633126261056",
+        "created_at": "2026-06-17T09:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067177891675398592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1447048011545075720",
+              "start": 0,
+              "username": "MisuzuChan_0510"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067177891675398592",
+        "in_reply_to_user_id": "1447048011545075720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067010611918393842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisuzuChan_0510 非常感谢！！(*^ω^*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1447048011545075720",
+        "conversation_id": "2066961633126261056",
+        "created_at": "2026-06-16T22:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T23:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067010611918393842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040446385925840896",
+              "start": 0,
+              "username": "Yozakura0_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067010611918393842",
+        "in_reply_to_user_id": "2040446385925840896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066961633126261056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yozakura0_ 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T15:08:43.000Z",
+        "description": "無須在意我‖现实边缘人唯一社交互联网‖超级喜欢关注对不起‖精神不安定‖社会废人家里蹲‖一切友好 想交朋友♡爱所有人 异色夜桜@kami1225404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "kami1225404"
+              }
+            ]
+          }
+        },
+        "id": "2040446385925840896",
+        "location": "幸福边缘",
+        "name": "夜桜♡",
+        "pinned_tweet_id": "2059671087596900422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051028867230658560/Ub-5J11Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 41,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 174
+        },
+        "url": "",
+        "username": "Yozakura0_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T03:55:12.000Z",
+        "description": "高校三年生、音楽が好き、ギタリスト。フェイバリット会社のファンです。",
+        "id": "1447048011545075720",
+        "location": "中国 天津",
+        "name": "みすず☆(⁠^⁠.⁠_⁠.⁠^⁠)⁠ﾉ",
+        "pinned_tweet_id": "2015247366102868343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973960475810672642/aEQz6IKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 185,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "MisuzuChan_0510",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "夜桜♡",
+  "username": "@Yozakura0_",
+  "bio": "無須在意我‖现实边缘人唯一社交互联网‖超级喜欢关注对不起‖精神不安定‖社会废人家里蹲‖一切友好 想交朋友♡爱所有人 异色夜桜@kami1225404",
+  "location": "幸福边缘",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 74,
+        "start": 62,
+        "username": "kami1225404"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2051028867230658560/Ub-5J11Y_normal.jpg"
+}

@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040446385925840896",
+    "conversation_id": "2059836450049593643",
+    "created_at": "2026-05-28T03:19:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T04:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059836868024561782"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059836868024561782",
+    "in_reply_to_user_id": "2040446385925840896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059836450049593643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恶心恶心恶心死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040446385925840896",
+        "conversation_id": "2059836450049593643",
+        "created_at": "2026-05-28T03:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059836868024561782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059836868024561782",
+        "in_reply_to_user_id": "2040446385925840896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059836450049593643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恶心恶心恶心死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040446385925840896",
+        "conversation_id": "2059836450049593643",
+        "created_at": "2026-05-28T03:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059836450049593643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059836450049593643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "墙内神人冲击力太大了，，连续刷到嗑药建微信群直接在抖音发码推荐别人磕感康和舍曲林的以及无授权不打码搬运推上一个人的自杀通知评论区里面说原来是跨女呀本来挺惋惜的活该这种恶心话。好恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T15:08:43.000Z",
+        "description": "無須在意我‖现实边缘人唯一社交互联网‖我单纯爱关注对不起‖精神不安定‖社会废人家里蹲‖一切友好 想交朋友♡爱所有人 异色夜桜@kami1225404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "kami1225404"
+              }
+            ]
+          }
+        },
+        "id": "2040446385925840896",
+        "location": "幸福边缘",
+        "name": "夜桜♡",
+        "pinned_tweet_id": "2059671087596900422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051028867230658560/Ub-5J11Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 31,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 111
+        },
+        "username": "Yozakura0_",
+        "verified": false
+      }
+    ]
+  }
+}

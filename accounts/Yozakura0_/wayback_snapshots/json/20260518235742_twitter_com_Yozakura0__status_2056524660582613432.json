@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040446385925840896",
+    "conversation_id": "2056524660582613432",
+    "created_at": "2026-05-18T23:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T00:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056524660582613432"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kami1225404/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/kami1225404/status/2056523149282566463",
+          "start": 6,
+          "url": "https://t.co/SAG6zs2DY5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056524660582613432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056523149282566463",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "睡觉了，， https://t.co/SAG6zs2DY5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040446385925840896",
+        "conversation_id": "2056524660582613432",
+        "created_at": "2026-05-18T23:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T00:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056524660582613432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kami1225404/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/kami1225404/status/2056523149282566463",
+              "start": 6,
+              "url": "https://t.co/SAG6zs2DY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056524660582613432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056523149282566463",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "睡觉了，， https://t.co/SAG6zs2DY5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042559197296918528",
+        "conversation_id": "2056523149282566463",
+        "created_at": "2026-05-18T23:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T00:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056523149282566463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056523149282566463",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自慰助眠法，很有效，晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T15:08:43.000Z",
+        "description": "無須在意我‖现实边缘人唯一社交互联网‖我单纯爱关注对不起‖精神不安定‖社会废人家里蹲‖一切友好 想交朋友♡爱所有人 异色夜桜@kami1225404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "kami1225404"
+              }
+            ]
+          }
+        },
+        "id": "2040446385925840896",
+        "location": "幸福边缘",
+        "name": "夜桜♡",
+        "pinned_tweet_id": "2049356214052819235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051028867230658560/Ub-5J11Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 28,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 56
+        },
+        "username": "Yozakura0_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T11:04:22.000Z",
+        "description": "弱智丑逼地雷女 低龄脑残不登校 没梦想没朋友没希望  不知道何时就会死去之人 异色小凪@Yozakura0_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "Yozakura0_"
+              }
+            ]
+          }
+        },
+        "id": "2042559197296918528",
+        "location": "🤍",
+        "name": "水野凪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055994286311940096/iGt0Cir8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "kami1225404",
+        "verified": false
+      }
+    ]
+  }
+}

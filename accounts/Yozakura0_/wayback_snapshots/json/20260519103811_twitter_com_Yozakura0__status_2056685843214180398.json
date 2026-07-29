@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040446385925840896",
+    "conversation_id": "2056685843214180398",
+    "created_at": "2026-05-19T10:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T11:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056685843214180398"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056685843214180398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "，，不知道为什么一直有人在敲门，大概是做什么的不知道，，装作家里并没有人中，敲门声音，很让人不安，一直在很烦躁的敲，，，﹥ &lt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040446385925840896",
+        "conversation_id": "2056685843214180398",
+        "created_at": "2026-05-19T10:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056685843214180398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056685843214180398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "，，不知道为什么一直有人在敲门，大概是做什么的不知道，，装作家里并没有人中，敲门声音，很让人不安，一直在很烦躁的敲，，，﹥ &lt;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T15:08:43.000Z",
+        "description": "無須在意我‖现实边缘人唯一社交互联网‖我单纯爱关注对不起‖精神不安定‖社会废人家里蹲‖一切友好 想交朋友♡爱所有人 异色夜桜@kami1225404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "kami1225404"
+              }
+            ]
+          }
+        },
+        "id": "2040446385925840896",
+        "location": "幸福边缘",
+        "name": "夜桜♡",
+        "pinned_tweet_id": "2049356214052819235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051028867230658560/Ub-5J11Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 28,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 57
+        },
+        "username": "Yozakura0_",
+        "verified": false
+      }
+    ]
+  }
+}

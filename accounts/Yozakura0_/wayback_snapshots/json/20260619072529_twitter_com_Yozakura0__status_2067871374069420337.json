@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2067871355027275776"
+      ]
+    },
+    "author_id": "2040446385925840896",
+    "conversation_id": "2067871374069420337",
+    "created_at": "2026-06-19T07:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067871374069420337"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M8Uv68hRY9",
+          "end": 28,
+          "expanded_url": "https://x.com/Yozakura0_/status/2067871374069420337/video/1",
+          "media_key": "7_2067871355027275776",
+          "start": 5,
+          "url": "https://t.co/M8Uv68hRY9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067871374069420337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "何意味？ https://t.co/M8Uv68hRY9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5033,
+        "height": 1280,
+        "media_key": "7_2067871355027275776",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067871355027275776/pu/img/_g6do66qoRAFF62B.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067871355027275776/pu/vid/avc1/320x568/13jePopZp4n5tXny.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067871355027275776/pu/vid/avc1/480x852/WtMpq0rtpa8uvFuQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067871355027275776/pu/vid/avc1/720x1280/EmDJMYE8EhI_jsIi.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067871355027275776/pu/pl/fLyTyglcWZxk-4CI.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2067871355027275776"
+          ]
+        },
+        "author_id": "2040446385925840896",
+        "conversation_id": "2067871374069420337",
+        "created_at": "2026-06-19T07:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067871374069420337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M8Uv68hRY9",
+              "end": 28,
+              "expanded_url": "https://x.com/Yozakura0_/status/2067871374069420337/video/1",
+              "media_key": "7_2067871355027275776",
+              "start": 5,
+              "url": "https://t.co/M8Uv68hRY9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067871374069420337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味？ https://t.co/M8Uv68hRY9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T15:08:43.000Z",
+        "description": "無須在意我‖现实边缘人唯一社交互联网‖超级喜欢关注对不起‖精神不安定‖社会废人家里蹲‖一切友好 想交朋友♡爱所有人 异色夜桜@kami1225404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "kami1225404"
+              }
+            ]
+          }
+        },
+        "id": "2040446385925840896",
+        "location": "幸福边缘",
+        "name": "夜桜♡",
+        "pinned_tweet_id": "2059671087596900422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051028867230658560/Ub-5J11Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 46,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "Yozakura0_",
+        "verified": false
+      }
+    ]
+  }
+}

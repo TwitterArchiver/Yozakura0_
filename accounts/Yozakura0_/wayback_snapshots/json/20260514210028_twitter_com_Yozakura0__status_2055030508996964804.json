@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055030505960280064"
+      ]
+    },
+    "author_id": "2040446385925840896",
+    "conversation_id": "2055030508996964804",
+    "created_at": "2026-05-14T21:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T22:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055030508996964804"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lohqM3bhfA",
+          "end": 64,
+          "expanded_url": "https://x.com/Yozakura0_/status/2055030508996964804/photo/1",
+          "media_key": "3_2055030505960280064",
+          "start": 41,
+          "url": "https://t.co/lohqM3bhfA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055030508996964804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果不是和雕联动完全不会有想买意愿的一件，，，但是诶呀还是好想买这个呀，等我攒钱 https://t.co/lohqM3bhfA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055030505960280064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITvW25akAACse2.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055030505960280064"
+          ]
+        },
+        "author_id": "2040446385925840896",
+        "conversation_id": "2055030508996964804",
+        "created_at": "2026-05-14T21:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T22:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055030508996964804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lohqM3bhfA",
+              "end": 64,
+              "expanded_url": "https://x.com/Yozakura0_/status/2055030508996964804/photo/1",
+              "media_key": "3_2055030505960280064",
+              "start": 41,
+              "url": "https://t.co/lohqM3bhfA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055030508996964804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果不是和雕联动完全不会有想买意愿的一件，，，但是诶呀还是好想买这个呀，等我攒钱 https://t.co/lohqM3bhfA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T15:08:43.000Z",
+        "description": "無須在意我‖现实边缘人唯一社交互联网‖我单纯爱关注对不起‖精神不安定‖社会废人家里蹲‖一切友好 想交朋友♡爱所有人\n重要的的人@kami1225404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "kami1225404"
+              }
+            ]
+          }
+        },
+        "id": "2040446385925840896",
+        "location": "幸福边缘",
+        "name": "夜桜♡",
+        "pinned_tweet_id": "2049356214052819235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051028867230658560/Ub-5J11Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 23,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 45
+        },
+        "username": "Yozakura0_",
+        "verified": false
+      }
+    ]
+  }
+}

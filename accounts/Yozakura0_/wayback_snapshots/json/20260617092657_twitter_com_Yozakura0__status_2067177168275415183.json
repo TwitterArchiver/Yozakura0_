@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040446385925840896",
+    "conversation_id": "2066961633126261056",
+    "created_at": "2026-06-17T09:26:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067177168275415183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2024475096489082880",
+          "start": 0,
+          "username": "AmorDesperatus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067177168275415183",
+    "in_reply_to_user_id": "2024475096489082880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067098582398955765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmorDesperatus ヾ(^▽^*)))非常感谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040446385925840896",
+        "conversation_id": "2066961633126261056",
+        "created_at": "2026-06-17T09:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067177168275415183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2024475096489082880",
+              "start": 0,
+              "username": "AmorDesperatus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067177168275415183",
+        "in_reply_to_user_id": "2024475096489082880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067098582398955765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmorDesperatus ヾ(^▽^*)))非常感谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024475096489082880",
+        "conversation_id": "2066961633126261056",
+        "created_at": "2026-06-17T04:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067098582398955765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040446385925840896",
+              "start": 0,
+              "username": "Yozakura0_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067098582398955765",
+        "in_reply_to_user_id": "2040446385925840896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066961633126261056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yozakura0_ 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T15:08:43.000Z",
+        "description": "無須在意我‖现实边缘人唯一社交互联网‖超级喜欢关注对不起‖精神不安定‖社会废人家里蹲‖一切友好 想交朋友♡爱所有人 异色夜桜@kami1225404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "kami1225404"
+              }
+            ]
+          }
+        },
+        "id": "2040446385925840896",
+        "location": "幸福边缘",
+        "name": "夜桜♡",
+        "pinned_tweet_id": "2059671087596900422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051028867230658560/Ub-5J11Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 41,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 170
+        },
+        "username": "Yozakura0_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T13:24:19.000Z",
+        "description": "存活时间:2006～ ？ ｜持证MTF｜hrt:2025.12.5～ ？ ｜177cm/71kg｜IP:江苏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NewLightAsia",
+                "end": 23,
+                "expanded_url": "http://t.me/NewLightAsia",
+                "start": 0,
+                "url": "https://t.co/3Fj6prneQW"
+              }
+            ]
+          }
+        },
+        "id": "2024475096489082880",
+        "name": "EA-StarLight🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2064825083131273524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062423053049688064/lMRRYRyV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 109,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 161
+        },
+        "url": "https://t.co/3Fj6prneQW",
+        "username": "AmorDesperatus",
+        "verified": false
+      }
+    ]
+  }
+}

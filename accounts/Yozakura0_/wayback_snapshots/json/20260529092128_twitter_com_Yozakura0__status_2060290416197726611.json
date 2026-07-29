@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060290413236506624"
+      ]
+    },
+    "author_id": "2040446385925840896",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2060290416197726611",
+    "created_at": "2026-05-29T09:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060290416197726611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UWZB29cIJz",
+          "end": 28,
+          "expanded_url": "https://x.com/Yozakura0_/status/2060290416197726611/photo/1",
+          "media_key": "3_2060290413236506624",
+          "start": 5,
+          "url": "https://t.co/UWZB29cIJz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060290416197726611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "凉凉的🤤 https://t.co/UWZB29cIJz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060290413236506624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJefNwca0AAVhiC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060290413236506624"
+          ]
+        },
+        "author_id": "2040446385925840896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2060290416197726611",
+        "created_at": "2026-05-29T09:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060290416197726611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UWZB29cIJz",
+              "end": 28,
+              "expanded_url": "https://x.com/Yozakura0_/status/2060290416197726611/photo/1",
+              "media_key": "3_2060290413236506624",
+              "start": 5,
+              "url": "https://t.co/UWZB29cIJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060290416197726611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "凉凉的🤤 https://t.co/UWZB29cIJz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T15:08:43.000Z",
+        "description": "無須在意我‖现实边缘人唯一社交互联网‖超级喜欢关注对不起‖精神不安定‖社会废人家里蹲‖一切友好 想交朋友♡爱所有人 异色夜桜@kami1225404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "kami1225404"
+              }
+            ]
+          }
+        },
+        "id": "2040446385925840896",
+        "location": "幸福边缘",
+        "name": "夜桜♡",
+        "pinned_tweet_id": "2059671087596900422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051028867230658560/Ub-5J11Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 32,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 128
+        },
+        "username": "Yozakura0_",
+        "verified": false
+      }
+    ]
+  }
+}

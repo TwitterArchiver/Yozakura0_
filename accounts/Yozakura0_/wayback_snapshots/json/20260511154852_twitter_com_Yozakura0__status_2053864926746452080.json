@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040446385925840896",
+    "conversation_id": "2053580186705424672",
+    "created_at": "2026-05-11T15:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T16:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053864926746452080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2053134191542538240",
+          "start": 0,
+          "username": "Nancyklip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053864926746452080",
+    "in_reply_to_user_id": "2053134191542538240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053854669622181948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nancyklip 怎么说呢。就减少不像真人的操作之类的然后我感觉这个盘点很莫名奇妙不好说，然后去检测的网站上看状态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040446385925840896",
+        "conversation_id": "2053580186705424672",
+        "created_at": "2026-05-11T15:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053864926746452080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053134191542538240",
+              "start": 0,
+              "username": "Nancyklip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053864926746452080",
+        "in_reply_to_user_id": "2053134191542538240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053854669622181948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nancyklip 怎么说呢。就减少不像真人的操作之类的然后我感觉这个盘点很莫名奇妙不好说，然后去检测的网站上看状态"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053134191542538240",
+        "conversation_id": "2053580186705424672",
+        "created_at": "2026-05-11T15:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053854669622181948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040446385925840896",
+              "start": 0,
+              "username": "Yozakura0_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053854669622181948",
+        "in_reply_to_user_id": "2040446385925840896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053580186705424672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yozakura0_ 求助怎么解除啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T15:08:43.000Z",
+        "description": "無須在意我‖现实边缘人唯一社交互联网‖我单纯爱关注对不起‖精神不安定‖只是个普通家里蹲‖想交朋友♡爱所有人\n重要的的人@kami1225404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "kami1225404"
+              }
+            ]
+          }
+        },
+        "id": "2040446385925840896",
+        "location": "幸福边缘",
+        "name": "夜桜♡",
+        "pinned_tweet_id": "2049356214052819235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051028867230658560/Ub-5J11Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 23,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 47
+        },
+        "username": "Yozakura0_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T15:26:12.000Z",
+        "description": "",
+        "id": "2053134191542538240",
+        "name": "Nancy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053394969122226176/eeoQpdz5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 4,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "Nancyklip",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2055294529113313280"
+      ]
+    },
+    "author_id": "2040446385925840896",
+    "conversation_id": "2055294623644549492",
+    "created_at": "2026-05-15T14:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T15:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055294623644549492"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LEv830O3Xz",
+          "end": 34,
+          "expanded_url": "https://x.com/Yozakura0_/status/2055294623644549492/video/1",
+          "media_key": "7_2055294529113313280",
+          "start": 11,
+          "url": "https://t.co/LEv830O3Xz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055294623644549492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ai翻唱好厉害，，， https://t.co/LEv830O3Xz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36933,
+        "height": 720,
+        "media_key": "7_2055294529113313280",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2055294529113313280/pu/img/cijZYY_vCVjcv1wf.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055294529113313280/pu/vid/avc1/320x320/BSnEFoH8mX99Nak6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055294529113313280/pu/vid/avc1/540x540/6yBB52GXiAEuDAAb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055294529113313280/pu/vid/avc1/720x720/OtcCtU5TkxH24jdV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2055294529113313280/pu/pl/UsQ7h4GJ8XjYpyPi.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2055294529113313280"
+          ]
+        },
+        "author_id": "2040446385925840896",
+        "conversation_id": "2055294623644549492",
+        "created_at": "2026-05-15T14:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055294623644549492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LEv830O3Xz",
+              "end": 34,
+              "expanded_url": "https://x.com/Yozakura0_/status/2055294623644549492/video/1",
+              "media_key": "7_2055294529113313280",
+              "start": 11,
+              "url": "https://t.co/LEv830O3Xz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055294623644549492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ai翻唱好厉害，，， https://t.co/LEv830O3Xz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T15:08:43.000Z",
+        "description": "無須在意我‖现实边缘人唯一社交互联网‖我单纯爱关注对不起‖精神不安定‖社会废人家里蹲‖一切友好 想交朋友♡爱所有人\n重要的的人@kami1225404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "kami1225404"
+              }
+            ]
+          }
+        },
+        "id": "2040446385925840896",
+        "location": "幸福边缘",
+        "name": "夜桜♡",
+        "pinned_tweet_id": "2049356214052819235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051028867230658560/Ub-5J11Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 23,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 46
+        },
+        "username": "Yozakura0_",
+        "verified": false
+      }
+    ]
+  }
+}

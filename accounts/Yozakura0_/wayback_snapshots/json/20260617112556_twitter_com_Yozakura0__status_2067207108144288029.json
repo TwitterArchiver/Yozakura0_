@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040446385925840896",
+    "conversation_id": "2067181837169131547",
+    "created_at": "2026-06-17T11:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067207108144288029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1991447822231826435",
+          "start": 0,
+          "username": "Destiny1339987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067207108144288029",
+    "in_reply_to_user_id": "1991447822231826435",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067207043220754898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Destiny1339987 好诶！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 312,
+        "media_key": "16_2067207033758404608",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLAx2Dxb0AABY-5.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLAx2Dxb0AABY-5.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040446385925840896",
+        "conversation_id": "2067181837169131547",
+        "created_at": "2026-06-17T11:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067207108144288029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991447822231826435",
+              "start": 0,
+              "username": "Destiny1339987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067207108144288029",
+        "in_reply_to_user_id": "1991447822231826435",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067207043220754898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Destiny1339987 好诶！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2067207033758404608"
+          ]
+        },
+        "author_id": "1991447822231826435",
+        "conversation_id": "2067181837169131547",
+        "created_at": "2026-06-17T11:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067207043220754898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040446385925840896",
+              "start": 0,
+              "username": "Yozakura0_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DW4rfkFLcR",
+              "end": 56,
+              "expanded_url": "https://x.com/Destiny1339987/status/2067207043220754898/photo/1",
+              "media_key": "16_2067207033758404608",
+              "start": 33,
+              "url": "https://t.co/DW4rfkFLcR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067207043220754898",
+        "in_reply_to_user_id": "2040446385925840896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067181837169131547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yozakura0_ 好事啊\n今天是一周的中点，一起加油吧！！ https://t.co/DW4rfkFLcR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T15:08:43.000Z",
+        "description": "無須在意我‖现实边缘人唯一社交互联网‖超级喜欢关注对不起‖精神不安定‖社会废人家里蹲‖一切友好 想交朋友♡爱所有人 异色夜桜@kami1225404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "kami1225404"
+              }
+            ]
+          }
+        },
+        "id": "2040446385925840896",
+        "location": "幸福边缘",
+        "name": "夜桜♡",
+        "pinned_tweet_id": "2059671087596900422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051028867230658560/Ub-5J11Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 41,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 208
+        },
+        "username": "Yozakura0_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T10:05:51.000Z",
+        "description": "「哪怕是哭泣著，也請在這個世界上活下去。」\nGalgame & 動漫重度愛好者｜素晴日·櫻之詩·白2｜間宮卓司本命🎌｜日常系逃避現實中🖤⁠｜LGBTQ+🏳️‍🌈友好\n現實太荒誕所以選擇發病｜互聯網流亡者 🌊 歡迎互fo",
+        "id": "1991447822231826435",
+        "location": "中國無錫 / Wuxi, China",
+        "name": "霜鐘鳴泣之時",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063974673671749632/c8r7UXzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 139,
+          "like_count": 1549,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 226
+        },
+        "username": "Destiny1339987",
+        "verified": false
+      }
+    ]
+  }
+}

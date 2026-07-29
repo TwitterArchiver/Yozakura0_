@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040446385925840896",
+    "conversation_id": "2066961633126261056",
+    "created_at": "2026-06-17T09:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067177046380564582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1480538925827780612",
+          "start": 0,
+          "username": "bwslimeOWO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067177046380564582",
+    "in_reply_to_user_id": "1480538925827780612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067098944245739616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bwslimeOWO 非常感谢之！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040446385925840896",
+        "conversation_id": "2066961633126261056",
+        "created_at": "2026-06-17T09:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067177046380564582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1480538925827780612",
+              "start": 0,
+              "username": "bwslimeOWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067177046380564582",
+        "in_reply_to_user_id": "1480538925827780612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067098944245739616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bwslimeOWO 非常感谢之！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1480538925827780612",
+        "conversation_id": "2066961633126261056",
+        "created_at": "2026-06-17T04:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067098944245739616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040446385925840896",
+              "start": 0,
+              "username": "Yozakura0_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067098944245739616",
+        "in_reply_to_user_id": "2040446385925840896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066961633126261056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yozakura0_ 生日快樂🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T15:08:43.000Z",
+        "description": "無須在意我‖现实边缘人唯一社交互联网‖超级喜欢关注对不起‖精神不安定‖社会废人家里蹲‖一切友好 想交朋友♡爱所有人 异色夜桜@kami1225404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "kami1225404"
+              }
+            ]
+          }
+        },
+        "id": "2040446385925840896",
+        "location": "幸福边缘",
+        "name": "夜桜♡",
+        "pinned_tweet_id": "2059671087596900422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051028867230658560/Ub-5J11Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 41,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 169
+        },
+        "username": "Yozakura0_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-10T13:56:10.000Z",
+        "description": "我是台灣Vtuber兼新手繪師~黑白史萊姆!!! 可以叫我姆姆或黑白~請多指教! tag 日常：#黑白說 art:#黑白史詩 Fanart:#黑白傳奇 Fanart🔞:#姆湯喔 🎨 原創 二創插畫/ OC artist/Derivative work 🌏 中文 / English/日本語 OK",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 48,
+                "tag": "黑白說"
+              },
+              {
+                "end": 62,
+                "start": 57,
+                "tag": "黑白史詩"
+              },
+              {
+                "end": 75,
+                "start": 70,
+                "tag": "黑白傳奇"
+              },
+              {
+                "end": 88,
+                "start": 84,
+                "tag": "姆湯喔"
+              }
+            ]
+          }
+        },
+        "id": "1480538925827780612",
+        "name": "Vtuber 黑白史萊姆～",
+        "pinned_tweet_id": "2065678974697795636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065646428547100672/53oXOcFB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 3355,
+          "like_count": 64596,
+          "listed_count": 9,
+          "media_count": 2836,
+          "tweet_count": 10176
+        },
+        "username": "bwslimeOWO",
+        "verified": true
+      }
+    ]
+  }
+}

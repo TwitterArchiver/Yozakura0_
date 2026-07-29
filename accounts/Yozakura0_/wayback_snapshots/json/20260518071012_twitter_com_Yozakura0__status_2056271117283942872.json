@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2056270830066335744"
+      ]
+    },
+    "author_id": "2040446385925840896",
+    "conversation_id": "2056271117283942872",
+    "created_at": "2026-05-18T07:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T08:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056271117283942872"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vp7uUjNEqi",
+          "end": 34,
+          "expanded_url": "https://x.com/Yozakura0_/status/2056271117283942872/video/1",
+          "media_key": "7_2056270830066335744",
+          "start": 11,
+          "url": "https://t.co/vp7uUjNEqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056271117283942872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发个之前搞cos拍的 https://t.co/vp7uUjNEqi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8805,
+        "height": 1280,
+        "media_key": "7_2056270830066335744",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2056270830066335744/pu/img/AtKNnM_5plZhg2DH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056270830066335744/pu/vid/avc1/320x568/fXo4z2VRQwskFhS3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056270830066335744/pu/vid/avc1/480x852/1kMfkBlVhmeAekQL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056270830066335744/pu/vid/avc1/720x1280/W79c_scyq0Qjqt2A.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2056270830066335744/pu/pl/VD9X--lC2HrbsnTH.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2056270830066335744"
+          ]
+        },
+        "author_id": "2040446385925840896",
+        "conversation_id": "2056271117283942872",
+        "created_at": "2026-05-18T07:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056271117283942872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vp7uUjNEqi",
+              "end": 34,
+              "expanded_url": "https://x.com/Yozakura0_/status/2056271117283942872/video/1",
+              "media_key": "7_2056270830066335744",
+              "start": 11,
+              "url": "https://t.co/vp7uUjNEqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056271117283942872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发个之前搞cos拍的 https://t.co/vp7uUjNEqi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T15:08:43.000Z",
+        "description": "無須在意我‖现实边缘人唯一社交互联网‖我单纯爱关注对不起‖精神不安定‖社会废人家里蹲‖一切友好 想交朋友♡爱所有人\n重要的的人@kami1225404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "kami1225404"
+              }
+            ]
+          }
+        },
+        "id": "2040446385925840896",
+        "location": "幸福边缘",
+        "name": "夜桜♡",
+        "pinned_tweet_id": "2049356214052819235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051028867230658560/Ub-5J11Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 24,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 55
+        },
+        "username": "Yozakura0_",
+        "verified": false
+      }
+    ]
+  }
+}
